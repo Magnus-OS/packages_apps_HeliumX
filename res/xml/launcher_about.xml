@@ -5,10 +5,8 @@
             android:key="about_trebuchet"
             android:title="@string/about_trebuchet_title"
             android:summary="@string/about_trebuchet_summary"
+            android:selectable="false"
             android:persistent="false" >
-            <intent
-                android:action="android.intent.action.VIEW"
-                android:data="https://github.com/ProjectSakura/packages_apps_Trebuchet" />
         </Preference>
 
         <Preference
@@ -24,6 +22,13 @@
             android:key="about_app_version"
             android:title="@string/about_app_version"
             android:summary="@string/about_app_version_summary"
+            android:selectable="false"
+            android:persistent="false"/>
+
+        <Preference
+            android:key="about_app_version"
+            android:title="@string/about_helium_version"
+            android:summary="@string/about_helium_version_summary"
             android:selectable="false"
             android:persistent="false"/>
 

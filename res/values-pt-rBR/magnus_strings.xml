@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2020-2021 crDroid Android Project
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General -->
+    <string name="settings_title">Configurações</string>
+    <!-- Categories -->
+    <string name="home_category_title">Tela inicial</string>
+    <string name="home_category_summary">Definir o painel do Google Now e mais</string>
+    <string name="icons_category_title">Ícones</string>
+    <string name="icons_category_summary">Definir formato e outras configurações de ícone</string>
+    <string name="app_drawer_category_title">Gaveta de apps</string>
+    <string name="app_drawer_category_summary">Personalizar sua gaveta de aplicativos</string>
+    <string name="misc_category_title">Diversos</string>
+    <string name="misc_category_summary">Outras opções</string>
+    <string name="dev_options_title">Opções de desenvolvedor</string>
+    <string name="dev_options_desc">Ativar alguns recursos ocultos em seu próprio risco</string>
+    <!-- QuickSpace -->
+    <string name="show_quickspace_title">Em resumo</string>
+    <string name="show_quickspace_summary">Mostrar no topo da tela inicial</string>
+    <!-- QuickSpace: QuickEvent: Device Intro Event -->
+    <string name="quick_event_rom_intro_welcome">Parece Primavera!</string>
+    <!-- QuickSpace: QuickEvent: Ambient Play -->
+    <string name="quick_event_ambient_now_playing">Reproduzindo Agora</string>
+    <string name="quick_event_ambient_song_artist">%1$s por %2$s</string>
+    <!-- Quickspace Now Playing -->
+    <string name="quickspace_now_playing_title">Mostrar oque está tocando agora</string>
+    <string name="quickspace_now_playing_summary">Mostra a música que você está tocando no Resumo.</string>
+    <!-- Quickspace alternative view -->
+    <string name="quickspace_alternate_style_title">Use um estilo alternativo</string>
+    <string name="quickspace_alternate_style_summary">Use um estilo minimalista para ver de relance</string>
+    <!-- Icon packs -->
+    <string name="icon_pack">Pacote de ícones</string>
+    <!-- DT2S -->
+    <string name="pref_sleep_gesture_title">Toque duplo para desligar a tela</string>
+    <string name="pref_sleep_gesture_summary">Toque duplo em um espaço vazio para desligar</string>
+    <!-- Quickspace PSA - Custom messages for the glance -->
+    <string name="quickspace_psa_title">Mostrar uma mensagem aleatória</string>
+    <string name="quickspace_psa_summary">Mostrar, às vezes, algumas mensagens divertidas no Resumo.</string>
+    <string-array name="quickspace_psa_morning">
+        <item>Ohayo Gozaimasu!</item>
+        <item>Good morning, time to rock!</item>
+        <item>You should not skip exercises.</item>
+        <item>Have a nice day!</item>
+        <item>What about a small 5 minutes nap?</item>
+        <item>That\'s one way to wake up.</item>
+        <item>You should change your alarm sounds.</item>
+        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
+        <item>Let\'s get this bread.</item>
+        <item>Check the weather just in case your crush needs an umbrella.</item>
+        <item>Feeling a bit sleepy yet</item>
+        <item>Have you looked outside yet?</item>
+        <item>Let\'s get this done.</item>
+    </string-array>
+    <string-array name="quickspace_psa_evening">
+        <item>Good night!</item>
+        <item>Sleep well!</item>
+        <item>See you tomorrow!</item>
+        <item>Sweet dreams!</item>
+        <item>Don\'t stay up too long</item>
+        <item>Have a good sleep</item>
+        <item>Get some sleep</item>
+        <item>Time to relax</item>
+        <item>Enjoy the night! Alone...</item>
+        <item>Time to charge the batteries!</item>
+        <item>It will be all good tomorrow because I am here!</item>
+        <item>Get your bones ready for tomorrow</item>
+    </string-array>
+    <string-array name="quickspace_psa_midnight">
+        <item>Um... good night?</item>
+        <item>It\'s a bit late now</item>
+        <item>I saw a ghost under the bed x_x</item>
+        <item>Are you more productive at this time?</item>
+        <item>Time for some good music</item>
+    </string-array>
+    <string-array name="quickspace_psa_random">
+        <item>Ignorance is Bliss.. until you hit the ground</item>
+        <item>Is it time to flash another update already?</item>
+        <item>Hyped about Android 13?</item>
+        <item>Oh hey, what\'s up?</item>
+        <item>You can do this!</item>   
+        <item>Keep going..</item>            
+        <item>Focus on your tasks</item>
+        <item>How many screenshots do you take?</item>
+        <item>Spread love not havoc :P</item>
+        <item>Have fun!</item>
+        <item>Eastereggs Incoming</item>
+        <item>Does eternity exist?</item>
+        <item>Remember the Lineage of the Unicorn</item>
+        <item>Enjoy Xtended battery life</item>
+        <item>Starting from the ground zero</item>
+        <item>Using MagnusOS? Damn you are Great!</item>
+        <item>Drink Water, Stay Hydrated</item>
+        <item>Float like a Cadillac, String like a Beemer.</item>
+        <item>Cheer up!</item>
+        <item>Do something great today</item>
+        <item>How is everything going?</item>
+        <item>No illusions, welcome to reality!</item>
+        <item>Thank you for your support</item>
+        <item>No festival for Derps - only perfection!</item>
+        <item>Sanity for your Paranoia</item>
+        <item>What a lovely experience, isn\'t it?</item>
+        <item>Evolution is a myth, right?</item>
+        <item>You are what you flash, don\'t be Potato</item>
+        <item>What\'s on your mind?</item>
+        <item>Playing that stupid game again?</item>
+        <item>Life is short, and it is here to be lived</item>
+        <item>Your patience is your power</item>
+    </string-array>
+    <!-- Recents screen, close app -->
+    <string name="recents_close_app">Fechar aplicativo</string>
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">por padrão</string>
+    <string name="custom_seekbar_default_value_to_set">Valor padrão: <xliff:g id ="v">%s</xliff:g>\nToque longo para definir</string>
+    <string name="custom_seekbar_default_value_is_set">Valor padrão definido</string>
+    <!-- Icon size -->
+    <string name="icon_size_title">Tamanho do ícone</string>
+    <!-- Font size -->
+    <string name="font_size_title">Tamanho da fonte</string>
+    <!-- Scrim alpha in apps drawer -->
+    <string name="all_apps_background_opacity_title">Opacidade do plano de fundo</string>
+    <!-- AppInfo -->
+    <string name="app_info_subtext">Deslize para baixo para fechar as informações do aplicativo.</string>
+    <string name="app_info_version_value">%1$s (%2$d)</string>
+    <string name="placeholder_string">Carregando...</string>
+    <!-- Used for preference height loading. -->
+    <string name="app_info_source">Fonte</string>
+    <string name="app_info_source_system">Sistema</string>
+    <string name="app_info_last_update">Última atualização</string>
+    <string name="app_info_version">Versão</string>
+    <string name="app_info_more">Mais</string>
+    <!-- Show dock search widget -->
+    <string name="dock_search_title">Barra de pesquisa do Google</string>
+    <string name="dock_search_summary">Mostrar no rodapé da sua tela inicial</string>
+    <!-- About info -->
+    <string name="about_trebuchet_summary">A customized Trebuchet+ launcher based on AOSP\'s Launcher3</string>
+    <string name="about_thanks_cat">Agradecimentos especiais a</string>
+    <string name="about">Sobre</string>
+    <string name="about_summary">Informações sobre o launcher</string>
+    <string name="about_app_version">Trebuchet+ Versão</string>
+    <string name="about_app_version_summary">1.R</string>
+    <string name="about_helium_version">HeliumX Versão</string>
+    <string name="about_helium_version_summary">1.3</string>
+</resources>

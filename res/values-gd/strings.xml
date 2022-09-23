@@ -17,7 +17,7 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Lòinsear3</string>
+    <string name="app_name">HeliumX</string>
     <string name="work_folder_name">Obair</string>
     <string name="activity_not_found">Cha deach an aplacaid a stàladh.</string>
     <string name="activity_not_available">Chan eil an aplacaid ri fhaighinn</string>
@@ -61,7 +61,7 @@
     <string name="permlab_write_settings">sgrìobhadh roghainnean is ath-ghoiridean na dachaigh</string>
     <string name="permdesc_write_settings">Leigidh seo leis an aplacaid 
         roghainnean is ath-ghoiridean na dachaigh atharrachadh.</string>
-    <string name="msg_no_phone_permission">Chan fhaod <xliff:g id="app_name" example="Launcher3">%1$s</xliff:g> gairmean fòn a dhèanamh</string>
+    <string name="msg_no_phone_permission">Chan fhaod <xliff:g id="app_name" example="">%1$s</xliff:g> gairmean fòn a dhèanamh</string>
     <string name="gadget_error_text">Duilgheadas le luchdadh a’ widget</string>
     <string name="gadget_setup_text">Suidheachadh</string>
     <string name="uninstall_system_app_text">Seo aplacaid an t-siostaim agus cha ghabh a dì-stàladh.</string>
